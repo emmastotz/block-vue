@@ -10,7 +10,7 @@ module.exports = {
       colors: {
         primeBlue: "#2e7fad",
         darkBlue: "#174057",
-        gray: "#f2f2f2"
+        primeGray: "#f2f2f2"
       }
     }
   },
